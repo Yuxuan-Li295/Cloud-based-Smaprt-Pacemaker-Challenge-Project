@@ -1,5 +1,8 @@
 # Cloud-based-Smaprt-Pacemaker-Challenge-Project
-# University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 1
+# University of Pennsylvania, CIS5410: 
+Embedded Software for Life-Critical IoT/CPS
+Applications Final Project
+
 
     Yuxin Wang
         https://www.linkedin.com/in/yuxin-wang-4b8800229/
